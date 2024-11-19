@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skin Stealer (The Backrooms) Blender 3.02
+* source:	https://sketchfab.com/3d-models/skin-stealer-the-backrooms-blender-302-c0db7c843ce44bb0a86a0b3a7d7884e1
+* author:	ultramirage10 (https://sketchfab.com/ultramirage10)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skin Stealer (The Backrooms) Blender 3.02" (https://sketchfab.com/3d-models/skin-stealer-the-backrooms-blender-302-c0db7c843ce44bb0a86a0b3a7d7884e1) by ultramirage10 (https://sketchfab.com/ultramirage10) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
