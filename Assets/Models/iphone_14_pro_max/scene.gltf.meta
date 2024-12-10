@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: ab7aa9555bee8fc47882f309cbfb3b5d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Models\iphone_14_pro_max\scene.bin
+    assetPath: Assets\Models\iphone_14_pro_max\scene.bin
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\KtvhjlxyToKjYkE_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\KtvhjlxyToKjYkE_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\GFNYbWjyDVGUwJd_emissive.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\GFNYbWjyDVGUwJd_emissive.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\IDdMwJVCyuFpUnA_baseColor.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\IDdMwJVCyuFpUnA_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\IDdMwJVCyuFpUnA_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\IDdMwJVCyuFpUnA_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\fdfRsQCrfvPBPfQ_baseColor.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\fdfRsQCrfvPBPfQ_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\fdfRsQCrfvPBPfQ_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\fdfRsQCrfvPBPfQ_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\sWxYOtHGWTcXRMx_baseColor.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\sWxYOtHGWTcXRMx_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\jFPFAvCbiqflbQV_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\jFPFAvCbiqflbQV_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\jFPFAvCbiqflbQV_normal.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\jFPFAvCbiqflbQV_normal.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\IkWzRHNnDaKQXIi_baseColor.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\IkWzRHNnDaKQXIi_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\pBMikDFQfUOsKkr_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\pBMikDFQfUOsKkr_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\LcWBQfBvCzxThpp_baseColor.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\LcWBQfBvCzxThpp_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\LcWBQfBvCzxThpp_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\LcWBQfBvCzxThpp_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\LcWBQfBvCzxThpp_emissive.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\LcWBQfBvCzxThpp_emissive.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\LcWBQfBvCzxThpp_normal.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\LcWBQfBvCzxThpp_normal.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\vsSJQngPxBJTVZb_baseColor.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\vsSJQngPxBJTVZb_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\vsSJQngPxBJTVZb_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\vsSJQngPxBJTVZb_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\vsSJQngPxBJTVZb_normal.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\vsSJQngPxBJTVZb_normal.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\xHgtbqndQshkTKG_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\xHgtbqndQshkTKG_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\BLpVAsLWNICZYGG_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\BLpVAsLWNICZYGG_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\FsunUcGyajFpQmW_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\FsunUcGyajFpQmW_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\fGwijctGaiRaYJC_baseColor.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\fGwijctGaiRaYJC_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\qEGySvwsouNnVcn_baseColor.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\qEGySvwsouNnVcn_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\qEGySvwsouNnVcn_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\qEGySvwsouNnVcn_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\qEGySvwsouNnVcn_normal.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\qEGySvwsouNnVcn_normal.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\WqbAhnIPgrrhfXS_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\WqbAhnIPgrrhfXS_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\IBtgGxCVyZhjKZM_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\IBtgGxCVyZhjKZM_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\iphone_14_pro_max\textures\rNCplyWedyfORFh_metallicRoughness.png
+    assetPath: Assets\Models\iphone_14_pro_max\textures\rNCplyWedyfORFh_metallicRoughness.png
+  reportItems: []
