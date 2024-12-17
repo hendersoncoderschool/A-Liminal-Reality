@@ -15,6 +15,9 @@ public class CamSWitch : MonoBehaviour
     public Quaternion startRot;
     public Quaternion endRot;
 
+    public GameObject model;
+    public GameObject camView;
+
     void Start()
     {
         startPos = new Vector3(0.4f, -0.425f, 0.884f);
@@ -62,6 +65,13 @@ public class CamSWitch : MonoBehaviour
         }
 
         isLerping = false;
+
+        model.SetActive(false);
+
+        camView.GetComponent<RGBShiftEffect>().on = true;
+        camView.GetComponent<ScanlinesEffect>().on = true;
+
+
     }
 
 

@@ -4318,6 +4318,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 157378345}
   m_Mesh: {fileID: -7745125141852784594, guid: 5247219d6371e7441aa711404c12f32d, type: 3}
+--- !u!1 &159550549 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6715728128834183352, guid: ab7aa9555bee8fc47882f309cbfb3b5d, type: 3}
+  m_PrefabInstance: {fileID: 1567744938}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &161238079
 GameObject:
   m_ObjectHideFlags: 0
@@ -28007,7 +28012,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88571dab8b35d4986bd57c94d47728a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  on: 1
+  on: 0
   grayscale: 0
   amount: 1000
   strength: 0.31
@@ -28043,7 +28048,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d54c6bfda817a46eb9d976719fd25909, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  on: 1
+  on: 0
   amount: 0.0162
   speed: 0.35
   material: {fileID: 2100000, guid: 668e4ca5bbe07424e90bffec7dd41598, type: 2}
@@ -37287,6 +37292,8 @@ MonoBehaviour:
   endPos: {x: 0, y: 0, z: 0}
   startRot: {x: 0, y: 0, z: 0, w: 0}
   endRot: {x: 0, y: 0, z: 0, w: 0}
+  model: {fileID: 159550549}
+  camView: {fileID: 963194225}
 --- !u!1 &1247070940
 GameObject:
   m_ObjectHideFlags: 0
@@ -45634,6 +45641,10 @@ PrefabInstance:
     - target: {fileID: 2774220344278030320, guid: ab7aa9555bee8fc47882f309cbfb3b5d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6715728128834183352, guid: ab7aa9555bee8fc47882f309cbfb3b5d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
