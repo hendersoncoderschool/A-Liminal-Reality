@@ -37294,6 +37294,7 @@ MonoBehaviour:
   endRot: {x: 0, y: 0, z: 0, w: 0}
   model: {fileID: 159550549}
   camView: {fileID: 963194225}
+  inFace: 0
 --- !u!1 &1247070940
 GameObject:
   m_ObjectHideFlags: 0
